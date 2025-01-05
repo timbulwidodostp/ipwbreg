@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ipwbreg': Inverse propensity weights from Bernoulli regression Use ipwbreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ipwbreg.ado
+f ipwbreg.sthlp
