@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ipwbreg Inverse propensity weights from Bernoulli regression Use ipwbreg With STATA 18
