@@ -1,6 +1,8 @@
 # ipwbreg
 Inverse propensity weights from Bernoulli regression Use ipwbreg With STATA 18
 
+https://www.youtube.com/watch?v=9HyHGBWtmf4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
